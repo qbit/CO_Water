@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/qbit/CO_Water",
   "dependencies": {
-    "cheerio": "^0.15.0"
+    "cheerio": "^0.15.0",
+    "pg": "^3.0.3"
   }
 }
