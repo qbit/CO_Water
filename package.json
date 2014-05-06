@@ -1,0 +1,26 @@
+{
+  "name": "CO_Water",
+  "version": "0.0.0",
+  "description": "various scripts and tools for consolidating water data",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qbit/CO_Water.git"
+  },
+  "keywords": [
+    "colorado",
+    "water"
+  ],
+  "author": "Aaron Bieber <deftly@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/qbit/CO_Water/issues"
+  },
+  "homepage": "https://github.com/qbit/CO_Water",
+  "dependencies": {
+    "cheerio": "^0.15.0"
+  }
+}
